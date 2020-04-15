@@ -1,5 +1,5 @@
 {
-  "name": "reg2005-adonis-sentry",
+  "name": "adonis-sentry2",
   "version": "2.0.2",
   "description": "Sentry provider for adonis framework",
   "main": "index.js",
